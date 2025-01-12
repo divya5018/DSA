@@ -15,5 +15,6 @@ def isValid( s: str) -> bool:
             return True
         else: return False
 
+
 k=input().strip()
 print(isValid(k))
